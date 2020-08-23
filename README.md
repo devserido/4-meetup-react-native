@@ -15,6 +15,7 @@
 - Introdução ao funcionamento do React Native
 - Diferenças entre tipos de aplicação (Web Apps/PWAs/Hibridos/Nativos)
 - Comparação entre ReactJS e React Native
+- Discussão sobre prós e contras do Expo
 
 - [x] O que foi produzido?
 
