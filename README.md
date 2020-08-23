@@ -1,6 +1,6 @@
 # Quarto MeetUp - Dev Seridó
 
-![Imagem 1º MeetUp](img/meetup4.png)
+![Imagem 4º MeetUp](img/meetup4.png)
 
 - [x] Quando aconteceu?
 
